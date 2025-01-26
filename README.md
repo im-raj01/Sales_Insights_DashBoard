@@ -1,6 +1,6 @@
-# 📊 Sales Insights Dashboard
+# 📊 Sales Insights Dashboard  
+This repository showcases comprehensive Sales Insights of a company Dashboard built using Power BI, providing key metrics and visualizations to analyze sales performance effectively. This project showcases data analytics and visualization skills, enabling informed decision-making for business growth.
 
-This repository showcasesA comprehensive Sales Insights of a company Dashboard built using Power BI, providing key metrics and visualizations to analyze sales performance effectively. This project showcases data analytics and visualization skills, enabling informed decision-making for business growth.
 ---
 ### Data Analysis Using SQL
 SQL database dump is in db_dump.sql file above. Download `db_dump_Data.sql` file to your local computer and import in mysql.
